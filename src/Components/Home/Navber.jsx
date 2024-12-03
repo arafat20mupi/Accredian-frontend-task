@@ -16,7 +16,7 @@ const Navber = () => {
                     </li>
                 </ul>
             </div>
-            <div className="flex-none space-x-4">
+            <div className="hidden md:block space-x-4">
                 <NavLink className={'btn'}>Refer & Earn</NavLink>
                 <NavLink className={'btn'}>Resources</NavLink>
                 <NavLink className={'btn'}>About us</NavLink>

@@ -1,3 +1,4 @@
+import Banifit from "../../Components/Home/Banifit";
 import Banner from "../../Components/Home/Banner";
 import Navber from "../../Components/Home/Navber";
 import Refar from "../../Components/Home/Refar";
@@ -9,6 +10,7 @@ const Home = () => {
             <Navber></Navber>
             <Banner></Banner>
             <Refar></Refar>
+            <Banifit></Banifit>
             <ReferAndEarn></ReferAndEarn>
         </div>
     );
